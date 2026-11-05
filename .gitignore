@@ -1,0 +1,6 @@
+node_modules/
+arinc429_local.db
+arinc429_local.db-shm
+arinc429_local.db-wal
+*.log
+.DS_Store
